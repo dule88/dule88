@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Dusan Dimitrijevic, Frontend Developer.
+I am Dušan Dimitrijević, Frontend Developer.
  
 My Tech Stack: React.js | JavaScript | Bootstrap | SCSS/SASS | CSS3 | HTML5
 
