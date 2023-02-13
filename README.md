@@ -23,3 +23,9 @@ I have experience with:
 ![image](https://user-images.githubusercontent.com/11027497/217342192-6c8e58a6-3f40-406f-8a0e-a9d1c6a4f042.png)
 ![image](https://user-images.githubusercontent.com/11027497/217342211-f854f475-0df4-474c-a1e4-cea773219fb9.png)
 ![image](https://user-images.githubusercontent.com/11027497/217342234-9117bff0-b1bb-410d-97bd-96511c99bf5c.png)
+![Redux](https://user-images.githubusercontent.com/11027497/218566541-9bc58037-cc70-426b-87ba-227ef52f0b7b.png)
+
+
+
+
+
