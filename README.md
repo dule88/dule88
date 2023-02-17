@@ -7,8 +7,6 @@ My Tech Stack: React.js | JavaScript | Bootstrap | SCSS/SASS | CSS3 | HTML5
 
 💻 Front-End Developer
 
-🌱 Currently learning React JS
-
 👨‍💻 Take a look at my Portfolio website
 
 💬 Feel free to contact me for anything d.dimitrijevic88@gmail.com
