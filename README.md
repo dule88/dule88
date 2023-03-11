@@ -3,9 +3,9 @@
 
 I am Dušan Dimitrijević, FrontEnd Developer.
  
-My Tech Stack: React.js | JavaScript | Bootstrap | SCSS/SASS | CSS3 | HTML5
+My Tech Stack: React.js | Redux | JavaScript | Bootstrap | SCSS/SASS | CSS3 | HTML5
 
-💻 Front-End Developer
+💻 FrontEnd Developer
 
 👨‍💻 Take a look at my Portfolio website
 
